@@ -1,6 +1,7 @@
-- 👋 Hi, wij zijn @ITmarktnl
-- 👀 Wij zijn gespecialiseerd in het ontwikkelen van websites, softwareoplossingen op maat, en het verkopen van gaming-pc's.
-- 🌱 Op dit moment verdiepen we ons verder in geavanceerde JavaScript-frameworks en software-automatisering.
-- 💞️ We staan open voor samenwerkingen op het gebied van webdesign, softwareontwikkeling en op maat gemaakte gaming setups.
-- 📫 Je kunt ons bereiken via: info@itmarkt.nl
-- ⚡ Leuke feit: We refurbishen en verkopen high-performance gaming-pc's!
+👋 Hi, we are @ITmarktnl, located in Amsterdam.
+👀 We specialize in developing websites, custom software solutions, and selling gaming PCs.
+💻 We have expertise in Java, CSS, HTML, and PowerShell.
+🌱 Currently, we’re focusing on advanced web development and server management.
+💞️ Open for collaborations in web design, software development, and custom gaming setups.
+📫 You can reach us at: info@itmarkt.nl
+⚡ Fun fact: We refurbish and sell high-performance gaming PCs!
